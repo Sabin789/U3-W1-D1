@@ -28,6 +28,18 @@
   color: #61dafb;
 }
 
+.red{
+  background-color: red;
+  max-width: 100px;
+  margin-left: 30%;
+  color: aliceblue;
+}
+#other{
+background-color: transparent;
+border: 1px solid green;
+border-radius: 50%;
+margin:3em 3em;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
